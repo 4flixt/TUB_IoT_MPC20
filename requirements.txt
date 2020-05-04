@@ -1,3 +1,5 @@
 jupytergraffiti
 numpy
 matplotlib
+casadi
+sympy
