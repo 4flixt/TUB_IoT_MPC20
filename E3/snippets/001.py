@@ -1,0 +1,11 @@
+lam, v = np.linalg.eig(A)
+
+fig, ax = plt.subplots(figsize=(6,6))
+ax.set_xlabel('Real component')
+ax.set_ylabel('Imag. component')
+ax.add_artist(plt.Circle((0, 0), 1,edgecolor='k', fill=False))
+ax.plot(np.real(lam),np.imag(lam),'o', markersize=10)
+ax.axhline(0,color='k')
+ax.axvline(0,color='k')
+ax.set_ylim(-1,1)
+ax.set_xlim(-1,1)
