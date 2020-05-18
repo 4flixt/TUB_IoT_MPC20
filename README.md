@@ -14,6 +14,7 @@ Alternatively, use our Binder links:
 |---|---|---|
 | 01  | Intro to Python | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4flixt/TUB_IoT_MPC20/master?filepath=E1%2F01_Introduction.ipynb)  |
 | 02  | Intro to CasADi | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4flixt/TUB_IoT_MPC20.git/master?filepath=%2FE2%2F02_Introduction_CasADi.ipynb)  |
+| 03 | MPC with CasADi | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4flixt/TUB_IoT_MPC20.git/master?filepath=%2FE3%2F03_MPC_with_CasADi.ipynb) |
 
 ## Known issues
 
