@@ -1,6 +1,9 @@
 # Model Predictive Control
 TU Berlin, IoT for Smart Buildings
 
+Prof. Dr.-Ing. Sergio Lucia
+Felix Fiedler
+
 ## Exercise Materials
 
 This is the repository of the exercise material for the TU Berlin class MPC.
