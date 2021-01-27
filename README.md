@@ -1,8 +1,7 @@
 # Model Predictive Control
 TU Berlin, IoT for Smart Buildings
 
-Prof. Dr.-Ing. Sergio Lucia
-Felix Fiedler
+Prof. Dr.-Ing. Sergio Lucia and Felix Fiedler
 
 ## Exercise Materials
 
